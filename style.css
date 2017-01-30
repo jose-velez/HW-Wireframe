@@ -1,0 +1,86 @@
+body
+{
+	background: #777;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+
+}
+header
+{
+	background: #ebebeb;
+	text-align: center;
+	width: 100%;
+	padding:25px;
+}
+nav
+{
+	background: #ebebeb; 
+	text-align: center;	
+	width: 100%;
+	padding:0.099%;
+	margin-top: 2%;
+}
+
+section
+{
+	float: left;
+	background: #ebebeb;
+	text-align: center;
+	width: 45%;
+	height: 50%;
+	margin: 2%;
+	padding-top: 2%;
+	padding-right: 2%;
+	padding-bottom: 4%;
+	padding-left: 2%;
+	position: relative;
+	bottom: -40%;
+}
+
+article
+{
+	background: #777;
+	position: relative;
+	padding: 1%;
+}
+
+h2
+{
+	display: block;
+}
+aside
+{
+	width: 41%;
+	background-color: #ebebeb;
+	float: right;
+	text-align: center;
+	position: relative;
+	margin-top: 1.888%;
+	padding-top: 3%;
+	padding-right: 2%
+	padding-bottom: 21%;
+	padding-left: 2%;
+	right: 2%;
+	height: 342px;
+}
+
+footer
+{
+	width: 100%;
+	background-color: #ebebeb;
+	text-align: center;
+	height: 50px;
+	clear: both;
+	padding: 2%;
+}
+.genericSquare
+{
+	border: 20px;
+	padding: 3%;
+	background-color: #ebebeb;
+	width:85%;
+	left: 10%;
+	margin: 4%;
+
+}
